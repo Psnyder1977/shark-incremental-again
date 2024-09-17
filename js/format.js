@@ -3,14 +3,14 @@ const EINF = Decimal.dInf
 
 const ST_NAMES = [
 	null, [
-		["","U","D","T","Qa","Qt","Sx","Sp","Oc","No"],
-		["","Dc","Vg","Tg","Qag","Qtg","Sxg","Spg","Ocg","Nog"],
-		["","Ce","De","Te","Qae","Qte","Sxe","Spe","Oce","Noe"],
+		["","U","D","T","Qd","Qn","Sx","Sp","Oc","No"],
+		["","Dc","Vg","Tg","qg","Qg","sg","Sg","Og","Ng"],
+		["","Ce","Du","Tr","Qa","Qi","Se","Si","Ot","Ni"],
 	],[
 		["","Mi","Mc","Na","Pc","Fm","At","Zp","Yc","Xn"],
-		["","Me","Du","Tr","Te","Pe","He","Hp","Ot","En"],
-		["","c","Ic","TCn","TeC","PCn","HCn","HpC","OCn","ECn"],
-		["","Hc","DHe","THt","TeH","PHc","HHe","HpH","OHt","EHc"]
+		["","Me","Du","Tre","Tt","Pn","Hei","Hp","Oct","En"],
+		["","c","I","Tcn","Tec","Pnc","Hec","Hpc","Ocn","Ecn"],
+		["","Hc","DHc","THc","TrHc","PHc","HeH","HepH","OtH","EnH"]
 	]
 ]
 
